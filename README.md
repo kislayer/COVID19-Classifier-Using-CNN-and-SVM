@@ -8,7 +8,7 @@ All the requirements are present in the requirements.txt file(all you have to do
 
 ```console
 
-foo@bar:~$ pip3 pip3 install -r requirements.txt
+foo@bar:~$ pip3 install -r requirements.txt
 
 ```
 
