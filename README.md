@@ -22,7 +22,7 @@ There are 2 files that can be run cli.py and gui.py.
 
 foo@bar:~$ python3 gui.py
 
-foo@bar:~$ python3 cli.pu
+foo@bar:~$ python3 cli.py
 
 ```
 
