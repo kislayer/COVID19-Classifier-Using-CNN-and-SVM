@@ -1,5 +1,7 @@
 # COVID-19 Classification on X-ray images using Multimodal CNN's
 
+This project was made with the objective of detecting COVID-19 patients using X-ray images of the chest. A GUI (Graphical User Interface) was also designed to allow smooth usage.
+
 ------
 
 ### Requirements
@@ -30,9 +32,9 @@ foo@bar:~$ python3 cli.py
 
 ### GUI 
 
-<img src="https://user-images.githubusercontent.com/66634743/114297725-62186c00-9ac3-11eb-806f-cee5f6335e4e.png" height=500 weight=700>
+<img src="https://user-images.githubusercontent.com/55105941/116272660-b9def480-a79e-11eb-8954-a13db6e4ec1b.png" height=500 weight=700>
 
-<img src="https://user-images.githubusercontent.com/66634743/114297728-63e22f80-9ac3-11eb-8818-f9ae39e6a3d5.png" height=500 weight=700>
+<img src="https://user-images.githubusercontent.com/55105941/116272971-fe6a9000-a79e-11eb-96cb-1d4ebb508d64.png" height=500 weight=700>
 
 ------
 
