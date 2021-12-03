@@ -9,6 +9,7 @@ This project was made with the objective of detecting COVID-19 patients using X-
 | [Milan Bhuva](https://github.com/MB557) | IIT2018176 |
 | [Manav Agrawal](https://github.com/mka2011) | IIT2018178 |
 | [Mohammed Aadil](https://github.com/XXDIL) | IIT2018179 |
+| [Kisalaya Kishore](https://github.com/kislayer) | IIT2018079 |
 
 ------
 ------
