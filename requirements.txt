@@ -8,7 +8,7 @@ PySimpleGUI==4.38.0
 qtconsole==5.0.3
 QtPy==1.9.0
 scikit-learn==0.24.1
-scipy==1.6.1
+scipy==1.8.0
 seaborn==0.11.1
 simplejson==3.16.0
 tensorflow==2.4.1
