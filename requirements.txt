@@ -7,7 +7,7 @@ Pillow==7.0.0
 PySimpleGUI==4.38.0
 qtconsole==5.0.3
 QtPy==1.9.0
-scikit-learn==0.24.1
+scikit-learn==1.5.0
 scipy==1.6.1
 seaborn==0.11.1
 simplejson==3.16.0
